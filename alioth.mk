@@ -1,7 +1,7 @@
 ===================
 Device changelogs
 ===================
-Date: August 03,2023
+Date: August 13,2023
 ===================
 - using lates N0 kernel without ksu
 - using neutron clang 18
