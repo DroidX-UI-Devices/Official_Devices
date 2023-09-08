@@ -1,7 +1,7 @@
 =================
 Device changelogs
 =================
-Date: 08/08/2023
+Date: 08/09/2023
 * Based on Blaze Kernel
 * Updated to latest KernelSU
 * Added Dolby Vision
