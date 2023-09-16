@@ -1,5 +1,14 @@
+==================
+Device Changelogs
+==================
+Date: 30-07-2023
+------------------
+- KernelSU Updated to 0.6.7
+- August Security Patch
+- Synced the latest source
+
 =========================
-Device Changelogs || DXUI
+Device Changelog
 =========================
 Date: 15-08-2023
 -------------------------
