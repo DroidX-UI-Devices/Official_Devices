@@ -4,7 +4,7 @@
 <br>
 <h3 align="center">- Below changes are from Android 13 </h3> 
 
-## • LimeDust (16.09.2023)
+## • 1.5.2 LimeDust (16.09.2023)
 ```
 - Added toggle to switch between Android 11/Android 13 qs panel style. 
 - Added support for Face Unlock. 
