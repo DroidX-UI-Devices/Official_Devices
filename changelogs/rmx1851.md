@@ -1,0 +1,38 @@
+==================
+Device Changelogs
+==================
+Date: Aug 10,2023
+------------------
+- some misc changes and bugfixes.
+
+
+Date: July 25,2023
+------------------
+- Cleanup device source 
+- Disable backpressure prop ( causes lags )
+- Fix 24bit audio playback 
+- Always report max cpu freq to some games
+- Enable performant auth feature 
+- Miscellaneous changes in Media codecs
+- Miscellaneous changes in sepolicies
+- Slightly boosted GPU for smooth QS panel
+- Enable AOSP surfaceflinger
+- Set Window animation/transition scale to 100% 
+- Enable BT low power adaptive control feature 
+- Increase ZRAM size to 60% of Ram size 
+- Drop libhidl & build vendor variant 
+- Import more codeaurora Qti permissions
+- Import GPS blobs from RMX1851_11_F.06
+
+
+Date: May 18,2023
+------------------
+- some bugs fixes and improvements in trees.
+
+
+
+---------------------
+Date: March 08,2023
+---------------------
+
+- Initial official release.
