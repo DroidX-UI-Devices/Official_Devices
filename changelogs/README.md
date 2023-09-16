@@ -1,11 +1,9 @@
 ![Changelog](https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/latest.png)
-
-<br>
 <h3 align="center"> DroidX-UI Version Update Changelog </h3> 
 
 <br>
 <h3 align="center">- Below changes are from Android 13 </h3> 
-<br>
+
 ### LimeDust (16.09.2023)
 ```
 - Added toggle to switch between Android 11/Android 13 qs panel style. 
