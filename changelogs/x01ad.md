@@ -1,5 +1,23 @@
+=========================
+Device: Asus Zenfone Max M2 (X01AD)
+=========================
+Maintainer: Assunzain
 ===================
-Device changelogs
+Device Changelogs
+===================
+Date: Sep 16,2023
+===================
+- Stable Build
+- Shipped GoCamera
+- Switched kernel to Perf+ KSU {Normal Kernel}
+- Add Viper4Android FX
+- Update some blobs from Fairphone 3
+- Changed clang to r437112b
+- Fix FaceUnlock
+
+
+===================
+Device Changelogs
 ===================
 Date: August 21,2023
 ===================
@@ -9,6 +27,8 @@ Date: August 21,2023
 - and more improvement
 
 
+===================
+Device Changelogs
 ==================
 Date: August 20,2023
 ===================
