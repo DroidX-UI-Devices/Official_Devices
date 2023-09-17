@@ -2,7 +2,7 @@
 Device Changelogs
 ==================
 ------------------
-Date: May 22,2023
+Date: Sep 18,2023
 ------------------
 - initial official release.
 - Shipped with oss kernel(Thnx to @AkiraNoSushi @muralivijay9845 for kt)

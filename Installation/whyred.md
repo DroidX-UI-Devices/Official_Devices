@@ -81,3 +81,9 @@
 • Select Recovery
 
 • After booted to recovery again, now you are ready to flash any non-dynamic rom
+
+## Read it carefully ##
+
+• Don't flash any 4.4/normal 4.19/non-dynamic kernel
+• Must revert your repartition
+• Use ofox from anand
