@@ -1,6 +1,16 @@
 =================
 Device changelogs
 =================
+Date: 17/09/2023
+* Based on Latest Blaze Kernel
+* Updated to Latest KernelSU
+* Added KProfiles
+* Included Xiaomi FP drivers
+
+
+=================
+Device changelogs
+=================
 Date: 08/09/2023
 * Based on Blaze Kernel
 * Updated to latest KernelSU
