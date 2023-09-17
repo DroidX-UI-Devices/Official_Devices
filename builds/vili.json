@@ -1,21 +1,21 @@
 {
-    "BuildingTime": "",
+    "BuildingTime": "20230917",
     "size": [
       {
-        "gapps": "",
+        "gapps": "2.6 GB",
         "vanilla": ""
       }
     ],
-    "version" : "",
-    "last_updated": "",
+    "version" : "1.5.2",
+    "last_updated": "17th September 2023",
     "maintainer": [
       {
-        "name": "",
-        "telegram": ""
+        "name": "ThatMalayaliDeb",
+        "telegram": "thatmalayali"
       }
     ],
-    "device_name": "",
-    "device": "",
+    "device_name": "Xiaomi 11T Pro",
+    "device": "vili",
     "xda_thread": "",
-    "updater": false
+    "updater": true
 }
