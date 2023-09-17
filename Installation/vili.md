@@ -2,14 +2,14 @@
  
 # Android 13 Release Notes/Installation Guide
 
-## 1. Take Backup
+ **1. Take Backup**
 
-## 2. Reboot to Recovery
+**2. Reboot to Recovery**
 
-## 3. Format Data
+ **3. Format Data**
 
-## 4. Flash ROM
+ **4. Flash ROM**
 
-## 5. Reboot
+ **5. Reboot**
 
   # Enjoy
