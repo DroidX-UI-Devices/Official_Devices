@@ -1,0 +1,21 @@
+{
+    "BuildingTime": "20230916",
+    "size": [
+      {
+        "gapps": "1.6",
+        "vanilla": "1.0"
+      }
+    ],
+    "version" : "1.5.2",
+    "last_updated": "16th September, 2023",
+    "maintainer": [
+      {
+        "name": "Akang",
+        "telegram": "https://t.me/@AssunZain"
+      }
+    ],
+    "device_name": "Asus Zenfone Max M2",
+    "device": "X01AD",
+    "xda_thread": "",
+    "updater": true
+  }

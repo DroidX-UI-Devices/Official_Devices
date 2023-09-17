@@ -1,0 +1,21 @@
+{
+    "BuildingTime": "20230817",
+    "size": [
+      {
+        "gapps": "1.7",
+        "vanilla": "1.2"
+      }
+    ],
+    "version" : "1.5.1",
+    "last_updated": "17th August 2023",
+    "maintainer": [
+      {
+        "name": "ZirgomHaidar",
+        "telegram": "https://t.me/Haidar1417"
+      }
+    ],
+    "device_name": "Redmi Note 9S / 9 Pro / 9 Pro Max / Note 10 Lite",
+    "device": "miatoll",
+    "xda_thread": "",
+    "updater": true
+}
