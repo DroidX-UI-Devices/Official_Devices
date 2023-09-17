@@ -1,38 +1,36 @@
-How to Install x aosp for Whyred with Dynamic Partition for the First Time aka from non-Dynamic partition ROM
+# How to Install x aosp for Whyred with Dynamic Partition for the First Time aka from non-Dynamic partition ROM
 
-Read carefully now :-
+### Read carefully now :-
 
-1) Put required files (x ROM & anand dynamic partition supported ofox) to your microsd
+• Put required files (x ROM & anand dynamic partition supported ofox) to your microsd
 
-2) Backup any files inside internal storage
+• Backup any files inside internal storage
 
-3) Reboot to recovery and Go to your microsd
+• Reboot to recovery and Go to your microsd
 
-4) Select ofox recovery zip file from step 1
+• Select ofox recovery zip file from step 1
 
-then Swipe to Install
+• Reboot to dynamic partition recovery
 
-5) Reboot to dynamic partition recovery
+• Select rom and flash
 
-6) Select rom and flash
+• Ignore any error message (because your partition didn’t yet on dynamic type)
 
-7) Ignore any error message (because your partition didn’t yet on dynamic type)
+• After installation complete, select “Factory Reset”
 
-8) After installation complete, select “Factory Reset”
+• Select “Format data/factory reset”
 
-9) Select “Format data/factory reset”
+• Select “Format data”
 
-10) Select “Format data”
+• Go back to Main Menu
 
-11) Go back to Main Menu
+• Select “Reboot to System”
 
-12) Select “Reboot to System”
-
-Enjoy!
+### Enjoy!
 
 
 
-How to dirty flash build:
+## How to dirty flash build:
 
 • Reboot into recovery
 
@@ -46,7 +44,7 @@ How to dirty flash build:
 
 
 
-Additional Notes:
+## Additional Notes:
 
 • Don’t try to dirty flash from or to any non-dynamic x rom or official build
 
@@ -61,10 +59,9 @@ Additional Notes:
 • The step for installing kernel is same as magisk step above
 
 
+# How to Revert Back to Non-Dynamic Partition :-
 
-How to Revert Back to Non-Dynamic Partition :-
-
-Read carefully:-
+### Read carefully:-
 
 • Put flashable normal recovery zip file (OrangeFox or PBRP, in this tutorial I’m using Shekhwat2’s OrangeFox build) into your microsd
 
@@ -100,4 +97,4 @@ Read carefully:-
 
 • After booted to recovery again, now you are ready to flash any non-dynamic rom
 
-Flashing steps credit @Yuu_kiho.
+## Flashing steps credit @Yuu_kiho.

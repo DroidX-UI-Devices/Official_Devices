@@ -1,0 +1,23 @@
+{
+    "BuildingTime": "20230811",
+    "size": [
+      {
+        "gapps": "0",
+        "vanilla": "0.7"
+      }
+    ],
+    "version" : "1.5.2",
+    "last_updated": "11th August 2023",
+    "maintainer": [
+      {
+        "name": "JAYY",
+        "telegram": "https://t.me/Jaybharambe127",
+        "name2": "Aneesh",
+        "telegram2": "https://t.me/obito_svha"
+      }
+    ],
+    "device_name": "Redmi 6 Pro",
+    "device": "sakura",
+    "xda_thread": "",
+    "updater": false
+}
