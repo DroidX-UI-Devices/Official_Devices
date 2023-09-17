@@ -1,3 +1,16 @@
+=================
+Device changelogs
+=================
+Date: 17/09/2023
+- Shipped With Gcam Go
+- Screen Recording Green Screen issue Fixed .
+- Updated Blobs and Dtbo with Miui 14
+- Wfd Fixed
+- Fixed APN.
+- Updated Some Props From Miui.
+- No Ksu will Ship with next update.
+- Dropped Mi_thermald.rc
+
 ===================
 Device changelogs
 ===================
