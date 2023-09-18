@@ -1,14 +1,5 @@
-===================
-Device Changelogs
-===================
-Maintainer: Dhruv00
-===================
-Date: 11-Aug-2023
-===================
+ <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
+ 
+# v1.5.1 LimeTree
 - some minor fixes.
-
-
-===================
-Date: 12-June-2023
-===================
 - initial official release.

@@ -1,11 +1,7 @@
-Device: Redmi Note 5 Pro (whyred)
-=========================
-Maintainer: ARIJIT-SAHA
-==================
-Device Changelogs
-==================
-Date: Sep 16,2023
-------------------
+ <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
+
+# v1.5.2 LimeDust [NEW]
+
 - Synced with latest source
 - Rebased on new dt
 - Switched to 4.19 kernel
@@ -17,13 +13,6 @@ Date: Sep 16,2023
 - Switch to New kernel (thnx to ScarletX and Kcuf)
 - Many more underhood changes
 
-------------------
-Date: Aug 10,2023
-------------------
+# v1.5.1 LimeTree
+
 - Some misc changes.
-
-
-------------------
-Date: July 24,2023
-------------------
-- initial official release.

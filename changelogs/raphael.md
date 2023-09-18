@@ -1,8 +1,6 @@
-==================
-Device changelogs
-==================
-Date: August 19,2023
-==================
+ <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
+
+# v1.5.1 LimeTree
 
 - Kernel switched to 4.14.320-SOVIET-STAR
 - ViPER4Android FX upstreamed to v: 5.1
@@ -11,16 +9,6 @@ Date: August 19,2023
 - Misc changes
 
 
-Device Changelogs
-==================
-Date: May 20,2023
+## May 20,2023
 ------------------
 - Added ViperFX.
-
-
-
----------------------
-Date: March 08,2023
----------------------
-
-- Initial official release.
