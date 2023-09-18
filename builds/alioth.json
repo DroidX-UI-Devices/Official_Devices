@@ -1,20 +1,20 @@
 {
-    "BuildingTime": "20230813",
+    "BuildingTime": "20230917",
     "size": [
       {
-        "gapps": "1.8",
-        "vanilla": "1.3"
+        "gapps": "1.9",
+        "vanilla": "1.4"
       }
     ],
-    "version" : "1.5.1",
-    "last_updated": "13th August, 2023",
+    "version" : "1.5.2",
+    "last_updated": "19th September, 2023",
     "maintainer": [
       {
         "name": "Chaitanyakm",
         "telegram": "https://t.me/Chaitanyakm"
       }
     ],
-    "device_name": "Poco F3/Mi 11X",
+    "device_name": "Poco F3/Mi 11X/Redmi K40",
     "device": "alioth",
     "xda_thread": "",
     "updater": true
