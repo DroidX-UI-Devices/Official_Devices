@@ -1,11 +1,21 @@
 ==================
 Device changelogs
 ==================
+Date: 18/09/2023
+==================
+
+- Clean flash recommended
+- Synced to latest sources
+- Nuked Google voice recorder
+- Misc changes
+
+==================
+Device changelogs
+==================
 Date: 24/08/2023
 ==================
 
 - Addressed selinux denials related to fp
-
 
 ==================
 Device changelogs

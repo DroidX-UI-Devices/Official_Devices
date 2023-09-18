@@ -1,21 +1,21 @@
 {
-    "BuildingTime": "",
+    "BuildingTime": "20230918",
     "size": [
       {
-        "gapps": "",
+        "gapps": "1.95GB",
         "vanilla": ""
       }
     ],
-    "version" : "",
-    "last_updated": "",
+    "version" : "1.5.2",
+    "last_updated": "18th September 2023",
     "maintainer": [
       {
-        "name": "",
-        "telegram": ""
+        "name": "Hariprakash",
+        "telegram": "https://t.me/Thunder105"
       }
     ],
-    "device_name": "",
-    "device": "",
+    "device_name": "Realme GT Neo 3T",
+    "device": "spartan",
     "xda_thread": "",
-    "updater": false
+    "updater": true
 }
