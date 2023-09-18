@@ -1,21 +1,21 @@
 {
-    "BuildingTime": "",
+    "BuildingTime": "20230918",
     "size": [
       {
-        "gapps": "",
+        "gapps": "2.1",
         "vanilla": ""
       }
     ],
-    "version" : "",
-    "last_updated": "",
+    "version" : "1.5.2",
+    "last_updated": "18th September 2023",
     "maintainer": [
       {
-        "name": "",
-        "telegram": ""
+        "name": "Vinayak",
+        "telegram": "https://t.me/INNUENDOCODM"
       }
     ],
-    "device_name": "",
-    "device": "",
-    "xda_thread": "",
+    "device_name": "Mi 11X Pro",
+    "device": "haydn",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-13-official-droidx-ui-1-5-2-for-haydn-haydnin.4628575/",
     "updater": false
 }
