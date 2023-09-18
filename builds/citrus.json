@@ -1,21 +1,21 @@
 {
-    "BuildingTime": "",
+    "BuildingTime": "20230917",
     "size": [
       {
-        "gapps": "",
-        "vanilla": ""
+        "gapps": "1.8GB",
+        "vanilla": "1.2GB"
       }
     ],
-    "version" : "",
-    "last_updated": "",
+    "version" : "1.5.2",
+    "last_updated": "17th September 2023",
     "maintainer": [
       {
-        "name": "",
-        "telegram": ""
+        "name": "<Ganesh Jadhav>",
+        "telegram": "https://t.me/NotGanesh"
       }
     ],
-    "device_name": "",
-    "device": "",
+    "device_name": "Poco M3",
+    "device": "chime",
     "xda_thread": "",
-    "updater": false
+    "updater": true
 }
