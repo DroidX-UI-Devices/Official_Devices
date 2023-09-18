@@ -1,22 +1,8 @@
-===================
-Device Changelogs
-===================
-Maintainer: Dhruv00
-===================
-Date: 11-August-2023
-===================
+ <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
+ 
+# v1.5.1 LimeTree
+
 - some minor fixes.
-
-
-===================
-Date: 22-July-2023
-===================
 - Fixed in call volume stuck on loudspeaker.
 - Fixed call recording bug.
 - Added support for dynamic refresh rate.
-
-
-===================
-Date: 12-June-2023
-===================
-- initial official release.

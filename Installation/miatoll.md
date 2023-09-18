@@ -1,4 +1,7 @@
+ <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/install.png" />
+
 ## **Gapps Builds:**
+
 1) Use OrangeFox Custom Recovery 
 2) Boot To Recovery and Wipe dalvick,data,cache
 3) Flash Rom Zip file
