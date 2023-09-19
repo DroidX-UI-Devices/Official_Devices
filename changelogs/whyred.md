@@ -1,6 +1,10 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
 
-# v1.5.2 LimeDust [NEW]
+# v1.5.3 LimeDust [NEW]
+- Synced with latest source
+- September sp
+
+# v1.5.2 LimeDust
 
 - Synced with latest source
 - Rebased on new dt
