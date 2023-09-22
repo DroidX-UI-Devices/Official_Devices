@@ -1,45 +1,71 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
 
-# v1.5.1 LimeTree
+# v1.5.3 LimeDust
 
-sync with latest source release 
+sweet: audio: Use QCOM implementation for audio effects
 
-ueventd: Remove all permissions from /sys/devices/soc0/serial_number
+sweet: Import QCOM audio effects blobs
 
-Kang libspl.so from LA.UM.9.1.r1-12900-SMxxx0.0
+sweet: Update OzoProcessing from MIUI V14.0.5.0.TKFEUXM
 
-Switch to AutoSingleLayer Android 13 Setting
+Revert "sweet: Add headphone button jack keylayout"
 
-Disable SurfaceFlinger EGL image tracking
+sweet: sepolicy: Address citsensorservice denials
 
-rootdir: Enable suspend to RAM
+sweet: sepolicy: Allow linkerconfig to kill itself
 
-rootdir: Use s2idle instead of deep
+sweet: Build android.frameworks.sensorservice@1.0 HAL
 
-Import missing audio & sensor libraries
+sweet: init: Disable adsprpcd
 
-sepolicy: Allow recovery to access /sys/fs/pstore/*
+sweet: nfc: add nfc entries in manifest
 
-overlay: adjust rounded corner radius top and bottom padding
+sweet: Add missing seccomp policies
 
-sepolicy: allow system app access zram0
+sweet: Update system blobs from LA.QSSI.13.0.r1-10000.02-qssi.0 
 
-Move power-mode.cpp to configs/power
+sweet: Update CarrierConfig from LA.QSSI.13.0.r1-10000.02-qssi.0
 
-overlay: SystemUI: increase front camera ring size"
+sweet: Implement xtra-daemon control via property
 
-rootdir: Remove vbmeta_system from fstab
+sweet: Use FUSE passthrough by default
 
-Update hotword blobs from V14.0.2.0.TKFMIXM
+sweet: remove unneeded ifdefs
 
-sepolicy: Allow SF to read firmware
+sweet: Enable Qualcomm TrueWireless™ Stereo
 
-Remove non-existent modules
+sweet: AAC frame control enabled for hal implementation.
 
-Disable backpressure prop
+sweet: Disable BT A2DP AAC whitelist.
 
-## Note: Clean flash required
-      Flash latest fw for your region.
-      No MIUI/Lecia Cam.
-      Vantom Kernel by default.
+sweet: Add support for low power adaptive control feature 
 
+sweet: Disable camera perflock
+
+sweet: Disable per-cgroup PSI accounting
+
+sweet: Enable the pre-rendering feature
+
+sweet: Relax timers for automatic refresh rate switching
+
+sweet: overlay: add missing power profile 300MHz CPU Frequency
+
+sweet: overlay: Update power profile
+
+sweet: Enable Optimized Power Management
+
+sweet: Enable automatic channel selection 
+
+sweet: Don't write binary XML files
+
+sweet: switch to sleepy kernel & r487747c clang
+
+## Note:
+      Lecia Cam included.
+      OnePlus Dolby included.
+      Sleepy Kernel by default.
+
+## Credits
+      Thanks to Mr.Fox for dt and vt
+      itsshashanksp for kt
+      Psychobro91 for testing 

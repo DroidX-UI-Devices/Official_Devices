@@ -1,21 +1,21 @@
 {
-    "BuildingTime": "",
+    "BuildingTime": "20230920",
     "size": [
       {
-        "gapps": "",
-        "vanilla": ""
+        "gapps": "1.9",
+        "vanilla": "1.4"
       }
     ],
-    "version" : "",
-    "last_updated": "",
+    "version" : "1.5.3 - LimeDust",
+    "last_updated": "21 September 2023",
     "maintainer": [
       {
-        "name": "",
-        "telegram": ""
+        "name": "Bhaskar",
+        "telegram": "https://telegram.me/iammrbhaskar"
       }
     ],
-    "device_name": "",
-    "device": "",
+    "device_name": "Redmi Note 10 Pro",
+    "device": "sweet",
     "xda_thread": "",
-    "updater": false
+    "updater": true
 }
