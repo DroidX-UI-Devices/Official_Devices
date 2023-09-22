@@ -1,0 +1,21 @@
+{
+    "BuildingTime": "20230922",
+    "size": [
+      {
+        "gapps": "1.9",
+        "vanilla": ""
+      }
+    ],
+    "version" : "1.5.3 - LimeDust",
+    "last_updated": "22nd September 2023",
+    "maintainer": [
+      {
+        "name": "rxuglr",
+        "telegram": "https://t.me/rxuglr"
+      }
+    ],
+    "device_name": "POCO X3 NFC",
+    "device": "surya",
+    "xda_thread": "",
+    "updater": true
+}
