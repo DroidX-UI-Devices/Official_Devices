@@ -5,3 +5,11 @@
 - Initial Build
 - Using Straton kernel without KernelSU
 - Audio quality improvement
+
+ # v1.5.3 LimeDust
+
+- Switched to user build type
+- Added RealmeParts
+- Integrated Sound Control and Clear Speaker into RealmeParts
+- Included KernelSU
+- Dropped pixel-libperfmgr

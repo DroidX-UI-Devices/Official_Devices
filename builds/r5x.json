@@ -1,21 +1,21 @@
 {
-    "BuildingTime": "",
+    "BuildingTime": "20230922",
     "size": [
       {
-        "gapps": "",
+        "gapps": "1.6",
         "vanilla": ""
       }
     ],
-    "version" : "",
-    "last_updated": "",
+    "version" : "1.5.3",
+    "last_updated": "22th September, 2023",
     "maintainer": [
       {
-        "name": "",
-        "telegram": ""
+        "name": "shygosh",
+        "telegram": "https://t.me/shygosh"
       }
     ],
-    "device_name": "",
-    "device": "",
+    "device_name": "Realme 5/5i/5s",
+    "device": "r5x",
     "xda_thread": "",
-    "updater": false
+    "updater": true
 }
