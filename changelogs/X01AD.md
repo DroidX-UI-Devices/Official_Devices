@@ -1,6 +1,15 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
  
-# v1.5.2 LimeDust [NEW]
+ 
+# v1.5.3 LimeDust [NEW]
+
+• Changed kernel to Perf+ Latest KSU v0.6.8
+• allow GCAM to read vendor_adsprpc_prop
+• Allow GCam to access AUX IDs
+• and more improvement
+
+ 
+# v1.5.2 LimeDust
 
 - Stable Build
 - Shipped GoCamera
