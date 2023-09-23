@@ -1,21 +1,14 @@
 {
-    "BuildingTime": "",
-    "size": [
-      {
-        "gapps": "",
-        "vanilla": ""
-      }
-    ],
-    "version" : "",
-    "last_updated": "",
-    "maintainer": [
-      {
-        "name": "",
-        "telegram": ""
-      }
-    ],
-    "device_name": "",
-    "device": "",
-    "xda_thread": "",
-    "updater": false
+    "Updater": false,
+    "BuildingTimeNumber": "",
+    "RomSize": "",
+    "VersionNumber" : "",
+    "Release time": "",
+    "Maintainer": [{
+               "Name": "",
+             "TelegramLink": ""
+                  }],
+    "DeviceName": "",
+    "CodeName": "",
+    "Xda_Rom": ""
 }
