@@ -1,17 +1,22 @@
 {
      "Updater": true,
-    "BuildingTimeNumber": "20230917",
-    "RomSize": "1.9",
-    "VersionNumber" : "1.5.3",
-    "ReleaseTime": "20th September, 2023",
-    "Maintainer": [
+    "BuildingTime": "20230917",
+     "size": [
       {
-        "Name": "Chaitanyakm",
-        "TelegramLink": "https://t.me/Chaitanyakm"
+        "gapps": "1.9",
+        "vanilla": "0"
       }
     ],
-    "DeviceName": "Poco F3/Mi 11X/Redmi K40",
-    "CodeName": "alioth",
+    "version" : "1.5.3",
+    "last_updated": "20th September, 2023",
+    "maintainer": [
+      {
+        "name": "Chaitanyakm",
+        "telegram": "https://t.me/Chaitanyakm"
+      }
+    ],
+    "device_name": "Poco F3/Mi 11X/Redmi K40",
+    "device": "alioth",
     "Xda_Rom": "",
    
 }
