@@ -1,18 +1,18 @@
 {
      "Updater": true,
-    "BuildingTime": "20230916",
+    "BuildingTime": "20230923",
     "size": [
       {
         "gapps": "1.6",
         "vanilla": "0"
       }
     ],
-    "version" : "1.5.2",
-    "last_updated": "16th September, 2023",
+    "version" : "1.5.3",
+    "last_updated": "23th September, 2023",
     "maintainer": [
       {
         "name": "Akang",
-        "telegram": "https://t.me/@AssunZain"
+        "telegram": "https://t.me/AssunZain"
       }
     ],
     "device_name": "Asus Zenfone Max M2",
