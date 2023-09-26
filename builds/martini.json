@@ -1,21 +1,21 @@
 {
-    "BuildingTime": "",
+    "BuildingTime": "20230926",
     "size": [
       {
-        "gapps": "",
+        "gapps": "2.4",
         "vanilla": ""
       }
     ],
-    "version" : "",
-    "last_updated": "",
+    "last_updated": "26th September 2023",
+    "version" : "1.5.3",
     "maintainer": [
       {
-        "name": "",
-        "telegram": ""
+        "name": "Mrick343",
+        "telegram": "https://t.me/Mrick343"
       }
     ],
-    "device_name": "",
-    "device": "",
-    "xda_thread": "",
-    "updater": false
+    "device_name": "OnePlus 9RT",
+    "device": "martini",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-13-0_r75-martini-official-droidx-ui-1-5-3-26-09-23.4631513/",
+    "updater": true
 }

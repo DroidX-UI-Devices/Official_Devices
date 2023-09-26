@@ -1,5 +1,13 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
 
+# v1.5.3 LimeDust
+
+- Updated blobs from OOS 13.1.591(EX01)
+- Firmware Included
+- Added Back Lineage color modes
+- Fixed mic rated issues in calls and games
+
+
 # v1.5.1 LimeTree
 
 - Added Livedisplay
