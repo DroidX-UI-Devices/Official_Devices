@@ -1,14 +1,14 @@
 {
     "BuildingTime": "20230918",
-    "size": [2.1GB]
+    "size": [
       {
-        "gapps": "Avalible",
-        "vanilla": "Not Avalible"
+        "gapps": "2.1",
+        "vanilla": "0"
       }
     ],
     "version" : "1.5.3",
-    "last_updated": "19092023",
-    "maintainer": [DrOpto]
+    "last_updated": "19.09.2023",
+    "maintainer": [
       {
         "name": "Dr.Opto",
         "telegram": "t.me/optoprjkt"
@@ -16,6 +16,6 @@
     ],
     "device_name": "Redmi Note 7Pro",
     "device": "Violet",
-    "xda_thread": "",
-    "updater": false
+    "xda_thread": "NA",
+    "updater": true
 }
