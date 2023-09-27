@@ -1,21 +1,21 @@
 {
-    "BuildingTime": "",
+    "BuildingTime": "20230924",
     "size": [
       {
-        "gapps": "",
-        "vanilla": ""
+        "gapps": "1.4",
+        "vanilla": "0.8"
       }
     ],
-    "version" : "",
-    "last_updated": "",
+    "version" : "1.5.3",
+    "last_updated": "24th September 2023",
     "maintainer": [
       {
-        "name": "",
-        "telegram": ""
+        "name": "MODEDGES",
+        "telegram": "https://t.me/modedges2023"
       }
     ],
-    "device_name": "",
-    "device": "",
-    "xda_thread": "",
-    "updater": false
+    "device_name": "Samsung Galaxy Note 10 +5g",
+    "device": "d2x",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-official-droidx-ui-v1-3-d1-d2s-d2x.4587955/",
+    "updater": true
 }

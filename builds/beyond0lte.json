@@ -1,13 +1,13 @@
 {
-    "BuildingTime": "20230817",
+    "BuildingTime": "20230924",
     "size": [
       {
         "gapps": "1.4",
-        "vanilla": "0"
+        "vanilla": "0.8"
       }
     ],
-    "version" : "1.5.1",
-    "last_updated": "17th   August, 2023",
+    "version" : "1.5.3",
+    "last_updated": "24th September 2023",
     "maintainer": [
       {
         "name": "MODEDGES",
@@ -16,6 +16,6 @@
     ],
     "device_name": "Samsung Galaxy S10e",
     "device": "beyond0lte",
-    "xda_thread": "",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-official-droidx-ui-v1-3-s10-s10-s105g-s10e.4580481/",
     "updater": true
 }
