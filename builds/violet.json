@@ -1,21 +1,21 @@
 {
-    "BuildingTime": "",
+    "BuildingTime": "20230918",
     "size": [
       {
-        "gapps": "",
-        "vanilla": ""
+        "gapps": "2.1",
+        "vanilla": "0"
       }
     ],
-    "version" : "",
-    "last_updated": "",
+    "version" : "1.5.3",
+    "last_updated": "26th september 2023",
     "maintainer": [
       {
-        "name": "",
-        "telegram": ""
+        "name": "Dr.Opto",
+        "telegram": "t.me/optoprjkt"
       }
     ],
-    "device_name": "",
-    "device": "",
-    "xda_thread": "",
-    "updater": false
+    "device_name": "Redmi Note 7Pro",
+    "device": "Violet",
+    "xda_thread": "NA",
+    "updater": true
 }

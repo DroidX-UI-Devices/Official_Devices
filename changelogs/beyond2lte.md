@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
 
-v1.5.3 LimeDust [NEW]
+# v1.5.3 LimeDust [NEW]
 
 - removed some duplicates
 - fixed some kernel errors.
