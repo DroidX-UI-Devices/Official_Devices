@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
 
-## Date: 26th-September-2023
+v1.5.3 LimeDust [NEW]
 
 - removed some duplicates
 - fixed some kernel errors.
@@ -10,7 +10,7 @@
 - Device Should Not Heat As Much
 - Fixed Some Battery Drainage
 
-## Date: 19-May-2023
+v1.5.2 LimeDust
 
 - some bugfixes.
 - upstreamed kernel.
