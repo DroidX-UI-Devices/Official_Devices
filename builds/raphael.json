@@ -1,21 +1,21 @@
 {
-    "BuildingTime": "",
+    "BuildingTime": "20230928",
     "size": [
       {
-        "gapps": "",
-        "vanilla": ""
+        "gapps": "1.86GB",
+        "vanilla": "Not Available"
       }
     ],
-    "version" : "",
-    "last_updated": "",
+    "version" : "1.5.3",
+    "last_updated": "28-09-2023",
     "maintainer": [
       {
-        "name": "",
-        "telegram": ""
+        "name": "x d s o l r a C",
+        "telegram": "t.me/xdsolraC"
       }
     ],
-    "device_name": "",
-    "device": "",
+    "device_name": "Mi 9T Pro / Redmi K20 Pro",
+    "device": "raphael",
     "xda_thread": "",
     "updater": false
 }
