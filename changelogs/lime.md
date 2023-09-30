@@ -1,4 +1,14 @@
 =================
+# v1.5.3 LimeDust
+====================
+Date: 29/09/2023
+- initial Release
+- fixed Some ims props
+- now ksu supports
+- New kernel (@hac4us)
+- etc.
+
+=================
 Device changelogs
 =================
 Date: 17/09/2023
