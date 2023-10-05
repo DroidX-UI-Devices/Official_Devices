@@ -1,0 +1,21 @@
+{
+    "BuildingTime": "20230927",
+    "size": [
+      {
+        "gapps": "1.37GB",
+        "vanilla": "Not Available"
+      }
+    ],
+    "version" : "1.5.3",
+    "last_updated": "05th October, 2023",
+    "maintainer": [
+      {
+        "name": "Sundram",
+        "telegram": "https://t.me/Nerd_Sundram"
+      }
+    ],
+    "device_name": "Redmi Note 6 Pro",
+    "device": "tulip",
+    "xda_thread": "",
+    "updater": true
+}
