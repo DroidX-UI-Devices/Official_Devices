@@ -1,21 +1,21 @@
 {
-    "BuildingTime": "",
+    "BuildingTime": "20231030",
     "size": [
       {
-        "gapps": "",
-        "vanilla": ""
+        "gapps": "-",
+        "vanilla": "1.1"
       }
     ],
-    "version" : "",
-    "last_updated": "",
+    "version" : "1.6",
+    "last_updated": "1st October 2023",
     "maintainer": [
       {
-        "name": "",
-        "telegram": ""
+        "name": "Noobbeast",
+        "telegram": "https://t.me/Noobbeasttt"
       }
     ],
     "device_name": "Redmi Note 8 Pro",
     "device": "begonia",
-    "xda_thread": "",
-    "updater": true
+    "xda_thread": "-",
+    "updater": false
 }
