@@ -5,6 +5,8 @@
 - Reboot to recovery (TWRP/PBRP)
 - Wipe cache, dalvik, system, data, vendor
 - Flash frimeware A10 Beta
-- Flash ROM- Flash Gapps (if you choose the Vanilla variant of the ROM)
+- Flash ROM
+- Flash Gapps (if you choose the Vanilla variant of the ROM)
 - Flash Dm-Verity
-- Reboot system- Done
+- Reboot system
+- Done

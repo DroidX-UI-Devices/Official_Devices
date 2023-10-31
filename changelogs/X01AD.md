@@ -1,7 +1,17 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
  
  
-# v1.5.3 LimeDust [NEW]
+# v1.6 ArchLight [NEW]
+
+• Changed kernel to Perf+ Latest KSU v0.7.0
+• X01AD: prop: Enable apk fs-verity
+• Remove GcamGoMod (Replace with Aperture Cam)
+• Fix Camera Lag when you first open the camera
+• Fix Data problem
+• and more improvement
+ 
+ 
+# v1.5.3 LimeDust
 
 • Changed kernel to Perf+ Latest KSU v0.6.8
 • allow GCAM to read vendor_adsprpc_prop

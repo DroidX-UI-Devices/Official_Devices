@@ -1,16 +1,16 @@
 {
-    "BuildingTime": "20230923",
+    "BuildingTime": "20231030",
     "size": [
       {
-        "gapps": "1.6",
-        "vanilla": "1.0"
+        "gapps": "1.4",
+        "vanilla": "940"
       }
     ],
-    "version" : "1.5.3",
-    "last_updated": "23th September, 2023",
+    "version" : "1.6",
+    "last_updated": "30th October, 2023",
     "maintainer": [
       {
-        "name": "Akang",
+        "name": "Assunzain (Akang Zain)",
         "telegram": "https://t.me/AssunZain"
       }
     ],
