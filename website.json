@@ -23,26 +23,26 @@
             "Position": "Core Team"
         },
         {
-            "codename": "",
-            "vendor": "",
-            "model": "",
-            "maintainer_name": "",
-            "co-maintaier": "",
-            "BuildingTime": "",
-            "last_updated": "",
-            "version": "",
+            "codename": "begonia",
+            "vendor": "xiaomi",
+            "model": "Redmi Note 8 Pro",
+            "maintainer_name": "Noobbeast",
+            "co-maintaier": "-",
+            "BuildingTime": "20231030",
+            "last_updated": "1st October 2023",
+            "version": "1.6",
             "active": true,
             "Device cglg": "",
             "Links": [
                 {
-                    "Gapps": "",
-                    "Vanilla": ""
+                    "Gapps": "-",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/begonia/droidx-1.6-20231030-0344-OFFICIAL-begonia-Vanilla.zip/download"
                 }
             ],
             "Status": "Official",
-            "device-pic": "",
-            "GitProfile": "",
-            "Position": ""
+            "device-pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/7cff9fc13e1a7be91299d3a6b3f5a4ad27f4a825/images/begonia.png",
+            "GitProfile": "https://github.com/DexterNoob",
+            "Position": "maintainer"
         }
     ]
 }
