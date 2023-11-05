@@ -162,6 +162,29 @@
             "position": "maintainer"
         },
         {
+            "codename": "spes",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 11",
+            "maintainer_name": "Sayan Sarkar",
+            "co_maintainer_name": "Arijit Saha",
+            "BuildingTime": "20231104",
+            "last_updated": "05th November 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/spes.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/spes/droidx-1.6-20231104-1308-OFFICIAL-spes-Gapps.zip",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/spes.png",
+            "gitProfile": "https://www.github.com/sayann70",
+            "profile_pic": "your profile picture in https link",
+            "position": "maintainer"
+        },
+        {
             "codename": "X01AD",
             "vendor": "ASUS",
             "model": "Zenfone Max M2",
