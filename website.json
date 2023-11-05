@@ -121,15 +121,15 @@
             "model": "Redmi 6 Pro",
             "maintainer_name": "Aneesh",
             "co_maintainer_name": "JAYY",
-            "BuildingTime": "20230920",
-            "last_updated": "20th September 2023",
-            "version": "1.5.3",
+            "BuildingTime": "20231104",
+            "last_updated": "04th November 2023",
+            "version": "1.6",
             "active": true,
             "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/sakura.md",
             "Links": [
                 {
-                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/sakura/droidx-1.5.3-20230920-OFFICIAL-sakura-Gapps.zip/download",
-                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/sakura/droidx-1.5.3-20230920-OFFICIAL-sakura-Vanilla.zip/download"
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/sakura/droidx-1.6-20231104-2131-OFFICIAL-sakura-Gapps.zip/download",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/sakura/droidx-1.6-20231104-0709-OFFICIAL-sakura-Vanilla.zip/download"
                 }
             ],
             "status": "Official",
