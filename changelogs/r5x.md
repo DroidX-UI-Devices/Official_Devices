@@ -13,3 +13,11 @@
 - Integrated Sound Control and Clear Speaker into RealmeParts
 - Included KernelSU
 - Dropped pixel-libperfmgr
+
+ # 1.6 ArcLight
+
+- Inlined Biofrost kernel branch `labs-dynamic` for stability sake
+- Fixed asymmetrical brightness slider
+- Fixed crappy mic quality
+- Optimized codegen for cortex-a53
+

@@ -1,5 +1,11 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
 
+# v1.6 Arclight
+
+- Updated blobs from oos 13.1.592(EX01)
+- Firmware Included
+- Kernel Updated to 5.4.254
+
 # v1.5.3 LimeDust
 
 - Updated blobs from OOS 13.1.591(EX01)

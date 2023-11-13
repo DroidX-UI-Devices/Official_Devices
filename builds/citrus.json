@@ -1,13 +1,13 @@
 {
-    "BuildingTime": "20230929",
+    "BuildingTime": "20231111",
     "size": [
       {
         "gapps": "1.8GB",
         "vanilla": ""
       }
     ],
-    "version" : "1.5.3",
-    "last_updated": "29th September 2023",
+    "version" : "1.6",
+    "last_updated": "11th November 2023",
     "maintainer": [
       {
         "name": "<Ganesh Jadhav>",

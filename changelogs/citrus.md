@@ -1,13 +1,14 @@
 <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
 
+# v.1.6 ArcLight
 
-# v1.5.3 LimeDust [NEW]
+- initial Release.
+- Switched to xiaomi vibrator aidl
+- etc.
+
+# v1.5.3 LimeDust
 
 - initial Release
-- fixed Some ims props
-- now ksu supports
-- New kernel thnx (@hac4us)
-- etc.
 
 # v1.5.2 LimeDust
 
