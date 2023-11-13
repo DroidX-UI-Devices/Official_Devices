@@ -144,14 +144,14 @@
             "model": "Redmi Note 5 Pro",
             "maintainer_name": "Arijit Saha",
             "co_maintainer_name": "",
-            "BuildingTime": "20230919",
-            "last_updated": "19th September 2023",
-            "version": "1.5.3",
+            "BuildingTime": "20231113",
+            "last_updated": "13th November 2023",
+            "version": "1.6",
             "active": true,
             "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/whyred.md",
             "Links": [
                 {
-                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/whyred/droidx-1.5.3-20230919-OFFICIAL-whyred-Gapps.zip",
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/whyred/droidx-1.6-20231112-0543-OFFICIAL-whyred-Gapps.zip/download",
                     "Vanilla": ""
                 }
             ],
