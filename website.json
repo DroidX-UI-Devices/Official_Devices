@@ -29,15 +29,15 @@
             "model": "Realme C3/Narzo 10A",
             "maintainer_name": "Koushik Dey",
             "co_maintainer_name": "",
-            "BuildingTime": "20231029",
-            "last_updated": "1st October 2023",
-            "version": "1.6",
+            "BuildingTime": "20231209",
+            "last_updated": "29th October 2023",
+            "version": "1.7",
             "active": true,
             "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/RMX2020.md",
             "Links": [
                 {
-                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/RMX2020/droidx-1.6-20231029-1106-OFFICIAL-RMX2020-Gapps.zip/download",
-                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/RMX2020/droidx-1.6-20231029-1045-OFFICIAL-RMX2020-Vanilla.zip/download"
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/RMX2020/droidx-1.7-20231209-0943-OFFICIAL-RMX2020-Gapps.zip/download",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/RMX2020/droidx-1.7-20231208-1733-OFFICIAL-RMX2020-Vanilla.zip/download"
                 }
             ],
             "status": "Official",
