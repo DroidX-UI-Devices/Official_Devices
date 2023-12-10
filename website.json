@@ -236,15 +236,15 @@
             "model": "Poco X5 Pro 5G",
             "maintainer_name": "PRIYANSHU",
             "co_maintainer_name": "",
-            "BuildingTime": "20231105",
-            "last_updated": "5th November 2023",
-            "version": "1.6",
+            "BuildingTime": "20231210",
+            "last_updated": "10th December 2023",
+            "version": "1.7",
             "active": true,
             "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/redwood.md",
             "Links": [
                 {
-                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/redwood/13/droidx-1.6-20231104-1744-OFFICIAL-redwood-Gapps.zip/download",
-                    "Vanilla": ""
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/redwood/13/droidx-1.7-20231210-1012-OFFICIAL-redwood-Gapps.zip",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/redwood/13/droidx-1.7-20231210-0910-OFFICIAL-redwood-Vanilla.zip"
                 }
             ],
             "status": "Official",
