@@ -347,15 +347,15 @@
             "vendor": "Xiaomi",
             "model": "POCO M4 Pro 4G",
             "maintainer_name": "fjrXTR",
-            "co_maintainer_name": "",
-            "BuildingTime": "20231111",
-            "last_updated": "",
-            "version": "1.6",
+            "co_maintainer_name": "gabutuniverse!",
+            "BuildingTime": "20231215",
+            "last_updated": "15th December 2023",
+            "version": "1.7",
             "active": true,
-            "device_cglg": "",
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/fleur.md",
             "Links": [
                 {
-                    "Gapps": "",
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/fleur/droidx-1.7-20231213-0507-OFFICIAL-fleur-Gapps.zip/download",
                     "Vanilla": ""
                 }
             ],
