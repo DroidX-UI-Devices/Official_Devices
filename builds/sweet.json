@@ -1,13 +1,13 @@
 {
-    "BuildingTime": "20230920",
+    "BuildingTime": "20231218",
     "size": [
       {
-        "gapps": "1.9",
-        "vanilla": "1.4"
+        "gapps": "2.1",
+        "vanilla": "1.5"
       }
     ],
     "version" : "1.5.3",
-    "last_updated": "21 September 2023",
+    "last_updated": "18 December 2023",
     "maintainer": [
       {
         "name": "Bhaskar",

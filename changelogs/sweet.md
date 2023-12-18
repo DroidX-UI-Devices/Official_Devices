@@ -1,4 +1,9 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
+# v1.7 
+
+sweet: sweet: Fix flickering on status bar
+
+sweet: vendorsetup.sh: switch to sleepy kernel and r487747c clang
 
 # v1.6 Arclight
 
@@ -62,3 +67,4 @@ sweet: Relax timers for automatic refresh rate switching
 ## Credits
       Thanks to Mr.Fox for dt and vt
       itsshashanksp for kt
+      @fucknakedsir for testing
