@@ -394,14 +394,14 @@
             "model": "7 Pro",
             "maintainer_name": "Balay Bera",
             "co_maintainer_name": "",
-            "BuildingTime": "20231123",
-            "last_updated": "23th November 2023",
-            "version": "1.6",
+            "BuildingTime": "20231218",
+            "last_updated": "18th December 2023",
+            "version": "1.7",
             "active": true,
             "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/RMX2170.md",
             "Links": [
                 {
-                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/RMX2170/droidx-1.6-20231123-1923-OFFICIAL-RMX2170-Gapps.zip/download",
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/RMX2170/droidx-1.7-20231218-0807-OFFICIAL-RMX2170-Gapps.zip/download",
                     "Vanilla": ""
                 }
             ],

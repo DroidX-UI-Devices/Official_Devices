@@ -1,13 +1,13 @@
 {
-    "BuildingTime": "20231123",
+    "BuildingTime": "20231218",
     "size": [
       {
         "gapps": "1.7",
         "vanilla": ""
       }
     ],
-    "version" : "1.6",
-    "last_updated": "23th November 2023",
+    "version" : "1.7",
+    "last_updated": "18th December 2023",
     "maintainer": [
       {
         "name": "Balay Bera",
