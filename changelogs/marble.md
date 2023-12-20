@@ -2,6 +2,39 @@
 
 ### DroidX-UI for Poco F5/Redmi Note 12 Turbo (Marble/in) Changelogs
 
+## 1.7 EOL
+```
+• Based on November Security Patch
+• Improve Dolby Atmos + Dirac Sound Audio
+• Revert Audio Hal size 240
+• Increase Audio Buffering
+• Clear package cache after dirty flash
+• Enable prefetching video
+• props: disable phantom process monitoring
+• fstab: Mount zram partition and improve
+• Label aware properties
+• overlay: Specify ambient color temperature sensor
+• Build some security packages
+• Add vendor prefix to sysfs_battery_supply
+• Expose aux camera globally
+• Build some missing LDAC libs
+• Use effect stream
+• Improve battery and batteryChargeCycles node
+• configs: Refreshrate timing from Pixel 7 Pro
+• Limit refresh rate on ambient display to 60
+• Reserve some space for each partition
+• Disable SDM rotator downscaler
+• Improve Charger
+• Implementation Fast Charge
+• Improve WiFi listening interval
+• Improve Audio
+• Improve Graphics and Display Match advanced_sf_offsets data to sm8650
+• Disable smooth display
+• Improve vendor marble for dt
+• Enable multi-gen LRU & Disable redir_party
+• Add Optional Refresh Rate
+```
+
 ## 1.6 ArcLight
 ```
 # • Initial Official Build
