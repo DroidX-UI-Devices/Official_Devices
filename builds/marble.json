@@ -1,13 +1,13 @@
 {
-    "BuildingTime": "20231031",
+    "BuildingTime": "20231220",
     "size": [
       {
-        "gapps": "2.2",
+        "gapps": "2.3",
         "vanilla": ""
       }
     ],
-    "version" : "1.6",
-    "last_updated": "1st October 2023",
+    "version" : "1.7",
+    "last_updated": "20 December 2023",
     "maintainer": [
       {
         "name": "SMGReborn X Maul's",
