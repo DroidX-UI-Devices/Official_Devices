@@ -1,5 +1,11 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
 
+# v1.7 LongTermSupport
+
+* Synced Latet source
+* Updated to latest KSU
+
+
 # v1.5.3 LimeDust [NEW]
 
 * Made unlock more seemless
