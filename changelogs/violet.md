@@ -1,4 +1,11 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
+# v2.0 NewHorizon
+
+- Initial A14 relese
+
+Bugs:
+- Offiline charging animation
+- Potrait mode in back camera
  
 # v1.5.3 LimeDust [NEW]
 
