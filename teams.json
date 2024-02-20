@@ -1,0 +1,36 @@
+{
+    "team": [
+        {
+            "name": "Sahil",
+            "github": "https://github.com/onkarsinghsahil",
+            "telegram": "https://t.me/error7951",
+            "XDA": "",
+            "role": "Core-Member web-developer",
+            "profile-pic": "https://avatars.githubusercontent.com/u/80300768"
+        },
+        {
+            "name": "Tanishq sharma",
+            "github": "https://github.com/TanishqSharma2022",
+            "telegram": "",
+            "XDA": "",
+            "role": "Core-Member web-developer",
+            "profile-pic": "https://avatars.githubusercontent.com/u/123730739"
+        },
+        {
+            "name": "",
+            "github": "",
+            "telegram": "",
+            "XDA": "",
+            "role": "Core-Member web-developer",
+            "profile-pic": ""
+        },
+        {
+            "name": "",
+            "github": "",
+            "telegram": "",
+            "XDA": "",
+            "role": "Core-Member web-developer",
+            "profile-pic": ""
+        }
+    ]
+}

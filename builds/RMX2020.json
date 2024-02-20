@@ -1,13 +1,13 @@
 {
-    "BuildingTime": "20231029",
+    "BuildingTime": "20231209",
     "size": [
       {
         "gapps": "1.65",
         "vanilla": "1.03"
       }
     ],
-    "version" : "1.6",
-    "last_updated": "1st October 2023",
+    "version" : "1.7",
+    "last_updated": "29th October 2023",
     "maintainer": [
       {
         "name": "Koushik Dey",
@@ -16,6 +16,6 @@
     ],
     "device_name": "Realme C3/Narzo 10A",
     "device": "RMX2020",
-    "xda_thread": "",
+    "xda_thread": "https://xdaforums.com/t/rom-a13-official-droidx-ui-v1-7-for-realme-c3-narzo-10a-monet-rmx2020-rui1-0-oss.4640741/",
     "updater": true
 }

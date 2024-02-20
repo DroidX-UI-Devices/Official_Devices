@@ -1,13 +1,13 @@
 {
-    "BuildingTime": "20230924",
+    "BuildingTime": "20231222",
     "size": [
       {
         "gapps": "2.6 GB",
         "vanilla": ""
       }
     ],
-    "version" : "1.5.3",
-    "last_updated": "24th September 2023",
+    "version" : "1.7",
+    "last_updated": "22nd December 2023",
     "maintainer": [
       {
         "name": "ThatMalayaliDeb",

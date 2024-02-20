@@ -1,64 +1,63 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
+# v1.7 
 
-# v1.5.3 LimeDust
+sweet: sweet: Fix flickering on status bar
 
-sweet: audio: Use QCOM implementation for audio effects
+sweet: vendorsetup.sh: switch to sleepy kernel and r487747c clang
 
-sweet: Import QCOM audio effects blobs
+# v1.6 Arclight
 
-sweet: Update OzoProcessing from MIUI V14.0.5.0.TKFEUXM
+sweet: Set 120Hz frame rate multiple threshold
 
-Revert "sweet: Add headphone button jack keylayout"
+sweet: init: Dont set build fingerprint 
 
-sweet: sepolicy: Address citsensorservice denials
+sweet: drop override doze mode support
 
-sweet: sepolicy: Allow linkerconfig to kill itself
+sweet: recovery: Make recovery permissive only in non-user builds
 
-sweet: Build android.frameworks.sensorservice@1.0 HAL
+sweet: overlay: Dont disable DiscoveryService and NearbyMessagingService
 
-sweet: init: Disable adsprpcd
+sweet: sepolicy: Address isolated_app denial
 
-sweet: nfc: add nfc entries in manifest
+sweet: Update dax-default.xml from MIUI
 
-sweet: Add missing seccomp policies
+sweet: Build Lineage Health HAL
 
-sweet: Update system blobs from LA.QSSI.13.0.r1-10000.02-qssi.0 
+sweet: vintf: Add vendor.lineage.health 
 
-sweet: Update CarrierConfig from LA.QSSI.13.0.r1-10000.02-qssi.0
+sweet: Remove keymap of headset buttons 
 
-sweet: Implement xtra-daemon control via property
+sweet: configs: powerhint: Don't boost top-app when screen is off
 
-sweet: Use FUSE passthrough by default
+sweet: configs: powerhint: Don't send QoS request during launch
 
-sweet: remove unneeded ifdefs
+sweet: configs: powerhint: fixup io_percent default value
 
-sweet: Enable Qualcomm TrueWireless™ Stereo
+sweet: configs: powerhint: Disable prefer_idle when screen goes off
 
-sweet: AAC frame control enabled for hal implementation.
+sweet: configs: powerhint.json: add FIXED_PERFORMANCE 
 
-sweet: Disable BT A2DP AAC whitelist.
+sweet: configs: powerhint: Fix QoS CPU DMA latency value 
 
-sweet: Add support for low power adaptive control feature 
+sweet: Drop duplicate prop
 
-sweet: Disable camera perflock
+sweet: Set the maximum WFD resolution to 720p@30 
 
-sweet: Disable per-cgroup PSI accounting
+sweet: Enable config_avoidGfxAccel
 
-sweet: Enable the pre-rendering feature
+Revert "sm6150-common: wifi: Switch gEnablePowerSaveOffload to 5"
 
-sweet: Relax timers for automatic refresh rate switching
+sweet: overlay: Disable wifi firmware debugging
 
-sweet: overlay: add missing power profile 300MHz CPU Frequency
+sweet: overlay: Fix hyper orange night light
 
-sweet: overlay: Update power profile
+sweet: set the build fingerprint and description at build time
 
-sweet: Enable Optimized Power Management
+sweet: Disable ART debug and optimize dexpreopt
 
-sweet: Enable automatic channel selection 
+sweet: Enable content detection for refresh rate switching
 
-sweet: Don't write binary XML files
-
-sweet: switch to sleepy kernel & r487747c clang
+sweet: Relax timers for automatic refresh rate switching 
 
 ## Note:
       Lecia Cam included.
@@ -68,4 +67,4 @@ sweet: switch to sleepy kernel & r487747c clang
 ## Credits
       Thanks to Mr.Fox for dt and vt
       itsshashanksp for kt
-      Psychobro91 for testing 
+      @fucknakedsir for testing

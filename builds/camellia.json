@@ -1,0 +1,21 @@
+{
+    "BuildingTime": "20231120",
+    "size": [
+      {
+        "gapps": "1.5GB",
+        "vanilla": ""
+      }
+    ],
+    "version" : "1.7",
+    "last_updated": "20th November 2023",
+    "maintainer": [
+      {
+        "name": "<Noah Allen>",
+        "telegram": "https://t.me/noah_allen"
+      }
+    ],
+    "device_name": "Redmi Note 10 5G",
+    "device": "camellia",
+    "xda_thread": "",
+    "updater": true
+}

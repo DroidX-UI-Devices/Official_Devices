@@ -1,0 +1,21 @@
+{
+    "BuildingTime": "20231218",
+    "size": [
+      {
+        "gapps": "1.7",
+        "vanilla": ""
+      }
+    ],
+    "version" : "1.7",
+    "last_updated": "18th December 2023",
+    "maintainer": [
+      {
+        "name": "Balay Bera",
+        "telegram": "https://t.me/BalayBera"
+      }
+    ],
+    "device_name": "Realme 7 Pro",
+    "device": "RMX2170",
+    "xda_thread": "",
+    "updater": true
+}

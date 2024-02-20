@@ -1,21 +1,22 @@
 {
-    "BuildingTime": "",
+    "BuildingTime": "20231220",
     "size": [
       {
-        "gapps": "",
+        "gapps": "2.3",
         "vanilla": ""
       }
     ],
-    "version" : "",
-    "last_updated": "",
+    "version" : "1.7",
+    "last_updated": "20 December 2023",
     "maintainer": [
       {
-        "name": "",
-        "telegram": ""
+        "name": "SMGReborn X Maul's",
+        "telegram": "https://t.me/SMGReborn"
       }
     ],
-    "device_name": "",
-    "device": "",
+    "device_name": "Poco F5/Redmi Note 12 Turbo",
+    "device": "marble",
     "xda_thread": "",
-    "updater": false
+    "updater": true
 }
+

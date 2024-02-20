@@ -1,0 +1,415 @@
+{
+    "devices": [
+        {
+            "codename": "mido",
+            "vendor": "xiaomi",
+            "model": "Redmi Note 4",
+            "maintainer_name": "Nalinish Ranjan",
+            "co_maintainer_name": "Sahil",
+            "BuildingTime": "20230924",
+            "last_updated": "24th September 2023",
+            "version": "1.5.3",
+            "active": true,
+            "device_cglg": "https://www.github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/mido.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/mido/droidx-1.5.3-20230924-OFFICIAL-mido-Gapps.zip/download",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/mido/droidx-1.5.3-20230924-OFFICIAL-mido-Vanilla.zip/download"
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/9221aa909c90b59404d6a967c25f90ac7ae4e591/images/mido.png",
+            "gitProfile": "https://github.com/NRanjan-17",
+            "profile_pic": "your profile picture in https link",
+            "position": "Core Team"
+        },
+        {
+            "codename": "RMX2020",
+            "vendor": "realme",
+            "model": "Realme C3/Narzo 10A",
+            "maintainer_name": "Koushik Dey",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231209",
+            "last_updated": "29th October 2023",
+            "version": "1.7",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/RMX2020.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/RMX2020/droidx-1.7-20231209-0943-OFFICIAL-RMX2020-Gapps.zip/download",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/RMX2020/droidx-1.7-20231208-1733-OFFICIAL-RMX2020-Vanilla.zip/download"
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/Koushikdey2003/device_pics/main/Realme%20C3.png",
+            "gitProfile": "https://github.com/Koushikdey2003",
+            "profile_pic": "https://avatars.githubusercontent.com/u/123065250?v=4",
+            "position": "maintainer"
+        },
+        {
+            "codename": "Lime",
+            "vendor": "Xiaomi",
+            "model": "Redmi 9 Power",
+            "maintainer_name": "Ganesh Jadhav",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231206",
+            "last_updated": "6th December 2023",
+            "version": "1.7",
+            "active": true,
+            "device_cglg": "https://github.com/Notganesh/Official_Devices/blob/13/changelogs/lime.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/chime/droidx-1.7-20231205-0703-OFFICIAL-lime-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/lime.png",
+            "gitProfile": "https://github.com/Notganesh",
+            "profile_pic": "https://avatars.githubusercontent.com/u/124853762?v=4",
+            "position": "maintainer"
+        },
+        {
+            "codename": "Citrus",
+            "vendor": "Xiaomi",
+            "model": "Poco M3",
+            "maintainer_name": "Ganesh Jadhav",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231206",
+            "last_updated": "6th December 2023",
+            "version": "1.7",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/citrus.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/chime/droidx-1.7-20231205-1120-OFFICIAL-citrus-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/citrus.png",
+            "gitProfile": "https://github.com/Notganesh",
+            "profile_pic": "https://avatars.githubusercontent.com/u/124853762?v=4",
+            "position": "maintainer"
+        },
+        {
+            "codename": "Haydn",
+            "vendor": "Xiaomi",
+            "model": "Mi 11X Pro",
+            "maintainer_name": "Vinayak",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231029",
+            "last_updated": "29th October 2023",
+            "version": "1.6.0",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/haydn.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/haydn/droidx-1.6-20231029-0335-OFFICIAL-haydn-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/haydn.png",
+            "gitProfile": "https://github.com/INCENDIOCODM",
+            "profile_pic": "https://avatars.githubusercontent.com/u/106219962?v=4",
+            "position": "maintainer"
+        },
+        {
+            "codename": "sakura",
+            "vendor": "Xiaomi",
+            "model": "Redmi 6 Pro",
+            "maintainer_name": "Aneesh",
+            "co_maintainer_name": "JAYY",
+            "BuildingTime": "20231217",
+            "last_updated": "17th December 2023",
+            "version": "1.7",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/sakura.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/sakura/droidx-1.7-20231217-1213-OFFICIAL-sakura-Gapps.zip/download",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/sakura/droidx-1.7-20231217-1131-OFFICIAL-sakura-Vanilla.zip/download"
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/sakura.png",
+            "gitProfile": "https://www.github.com/jayb71",
+            "profile_pic": "your profile picture in https link",
+            "position": "maintainer"
+        },
+        {
+            "codename": "whyred",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 5 Pro",
+            "maintainer_name": "Arijit Saha",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231113",
+            "last_updated": "13th November 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/whyred.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/whyred/droidx-1.6-20231112-0543-OFFICIAL-whyred-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/whyred.png",
+            "gitProfile": "https://www.github.com/Arijit78",
+            "profile_pic": "your profile picture in https link",
+            "position": "maintainer"
+        },
+        {
+            "codename": "spes",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 11",
+            "maintainer_name": "Sayan Sarkar",
+            "co_maintainer_name": "Arijit Saha",
+            "BuildingTime": "20231104",
+            "last_updated": "05th November 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/spes.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/spes/droidx-1.6-20231104-1308-OFFICIAL-spes-Gapps.zip",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/spes.png",
+            "gitProfile": "https://www.github.com/sayann70",
+            "profile_pic": "your profile picture in https link",
+            "position": "maintainer"
+        },
+        {
+            "codename": "X01AD",
+            "vendor": "ASUS",
+            "model": "Zenfone Max M2",
+            "maintainer_name": "Assun Zain",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231030",
+            "last_updated": "30th October 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/X01AD.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/X01AD/droidx-1.6-20231031-0119-OFFICIAL-X01AD-Gapps.zip/download",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/X01AD/droidx-1.6-20231030-1406-OFFICIAL-X01AD-Vanilla.zip/download"
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/X01AD.png",
+            "gitProfile": "https://github.com/Assunzain",
+            "profile_pic": "https://avatars.githubusercontent.com/u/58516381?v=4",
+            "position": "maintainer"
+        },
+        {
+            "codename": "begonia",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 8 Pro",
+            "maintainer_name": "Noobbeast",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231030",
+            "last_updated": "19th September 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/begonia.md",
+            "Links": [
+                {
+                    "Gapps": "",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/begonia/droidx-1.6-20231030-0344-OFFICIAL-begonia-Vanilla.zip/download"
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/7cff9fc13e1a7be91299d3a6b3f5a4ad27f4a825/images/begonia.png",
+            "gitProfile": "https://github.com/DexterNoob",
+            "profile_pic": "your profile picture in https link",
+            "position": "maintainer"
+        },
+        {
+            "codename": "redwood",
+            "vendor": "Xiaomi",
+            "model": "Poco X5 Pro 5G",
+            "maintainer_name": "PRIYANSHU",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231210",
+            "last_updated": "10th December 2023",
+            "version": "1.7",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/redwood.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/redwood/13/droidx-1.7-20231210-1012-OFFICIAL-redwood-Gapps.zip",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/redwood/13/droidx-1.7-20231210-0910-OFFICIAL-redwood-Vanilla.zip"
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://crdroid.net/img/devices/redwood.webp",
+            "gitProfile": "https://github.com/thepriyanshujangid",
+            "profile_pic": "https://avatars.githubusercontent.com/u/97881238?s=400&u=97dea7155edd80d103af57037ef20881fdce00ef&v=4",
+            "position": "maintainer"
+        },
+        {
+            "codename": "camellia",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 10 5G",
+            "maintainer_name": "Noah",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231120",
+            "last_updated": "20th November 2023",
+            "version": "1.7",
+            "active": true,
+            "device_cglg": "",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/camellia/droidx-1.7-20231120-1056-OFFICIAL-camellia-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1620310381.63075759.png",
+            "gitProfile": "https://github.com/Noah113-Allen",
+            "profile_pic": "https://avatars.githubusercontent.com/u/107565494?v=4",
+            "position": "maintainer"
+        },
+        {
+            "codename": "sweet",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 10 Pro",
+            "maintainer_name": "Bhaskar",
+            "co_maintainer_name": "",
+            "BuildingTime": "20230920",
+            "last_updated": "20th September 2023",
+            "version": "1.4",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/sweet.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/sweet/droidx-1.5.3-20230920-OFFICIAL-sweet-Gapps.zip/download",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/sweet/droidx-1.5.3-20230920-OFFICIAL-sweet-Vanilla.zip/download"
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://camo.githubusercontent.com/42fb2a58c3dcded3efe0cb12a5ad79ae9713f65286924a7e6345f976d19caf62/68747470733a2f2f692e696d6775722e636f6d2f743362794768392e706e67",
+            "gitProfile": "https://github.com/bhaskar966",
+            "profile_pic": "https://avatars.githubusercontent.com/u/86063625"
+        },
+        {
+            "codename": "r5x",
+            "vendor": "realme",
+            "model": "Realme 5 Series",
+            "maintainer_name": "shygosh",
+            "BuildingTime": "20231110",
+            "last_updated": "10th November 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "https://www.github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/r5x.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/r5x/droidx-1.6-20231110-1103-OFFICIAL-r5x-Gapps.zip/download"
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://fdn2.gsmarena.com/vv/pics/realme/realme-5-rmx1911-2.jpg",
+            "gitProfile": "https://github.com/shygosh",
+            "profile_pic": "https://avatars.githubusercontent.com/u/71200624",
+            "position": "maintainer"
+        },
+        {
+            "codename": "spartan",
+            "vendor": "Realme",
+            "model": "Gt Neo 3T",
+            "maintainer_name": "Hariprakash",
+            "co_maintainer_name": "",
+            "BuildingTime": "20230918",
+            "last_updated": "18th September 2023",
+            "version": "1.5.2",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/spartan.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/spartan/droidx-1.5.2-20230918-OFFICIAL-spartan-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "",
+            "gitProfile": "https://github.com/Thunder105",
+            "profile_pic": "https://avatars.githubusercontent.com/u/48315052?s=400&u=563286b6b541662bbfaf982bcba8fde959694469&v=4",
+            "position": "maintainer"
+        },
+        {
+            "codename": "fleur",
+            "vendor": "Xiaomi",
+            "model": "POCO M4 Pro 4G",
+            "maintainer_name": "fjrXTR",
+            "co_maintainer_name": "gabutuniverse!",
+            "BuildingTime": "20231215",
+            "last_updated": "15th December 2023",
+            "version": "1.7",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/fleur.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/fleur/droidx-1.7-20231213-0507-OFFICIAL-fleur-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/fjrXTR/device_pics/d51495d07f47703bf70559bdc8151c645d413201/Fleur_PocoM4Pro.png",
+            "gitProfile": "https://github.com/fjrXTR",
+            "profile_pic": "https://avatars.githubusercontent.com/u/123760419?v=4",
+            "position": "maintainer"
+        },
+        {
+            "codename": "martini",
+            "vendor": "OnePlus",
+            "model": "9RT",
+            "maintainer_name": "Mrick343",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231111",
+            "last_updated": "11th November 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/martini.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/martini/droidx-1.6-20231111-1309-OFFICIAL-martini-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://camo.githubusercontent.com/5fa0be13b9e4cc1a9aa600243ea18cb32264164ab4f389ca095ada31fe9063e2/68747470733a2f2f692e696d6775722e636f6d2f545844436746732e706e67",
+            "gitProfile": "https://github.com/Mrick343",
+            "profile_pic": "https://avatars.githubusercontent.com/u/85066116?v=4",
+            "position": "maintainer"
+        },
+        {
+            "codename": "RMX2170",
+            "vendor": "Realme",
+            "model": "7 Pro",
+            "maintainer_name": "Balay Bera",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231218",
+            "last_updated": "18th December 2023",
+            "version": "1.7",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/RMX2170.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/RMX2170/droidx-1.7-20231218-0807-OFFICIAL-RMX2170-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://i.imgur.com/jRl9ekk.jpg",
+            "gitProfile": "https://github.com/BalayBera",
+            "profile_pic": "https://avatars.githubusercontent.com/u/81761153?v=4",
+            "position": "maintainer"
+        }
+    ]
+}

@@ -1,6 +1,11 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
 
-# v1.5.3 LimeDust [NEW]
+# v1.6 Arclight [NEW]
+- Synced with latest source
+- Switched to 4.4 kernel and non dynamic partiton again (for a13 only)
+- Fixed some older issues
+
+# v1.5.3 LimeDust
 - Synced with latest source
 - September sp
 

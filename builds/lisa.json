@@ -1,21 +1,21 @@
 {
-    "BuildingTime": "",
+    "BuildingTime": "20231029",
     "size": [
       {
-        "gapps": "",
+        "gapps": "1.8GB",
         "vanilla": ""
       }
     ],
-    "version" : "",
+    "version" : "1.6",
     "last_updated": "",
     "maintainer": [
       {
-        "name": "",
-        "telegram": ""
+        "name": "LazyDevAk",
+        "telegram": "https://t.me/lazydev_ak"
       }
     ],
-    "device_name": "",
-    "device": "",
+    "device_name": "Xiaomi 11 Lite Ne 5G",
+    "device": "lisa",
     "xda_thread": "",
     "updater": false
 }

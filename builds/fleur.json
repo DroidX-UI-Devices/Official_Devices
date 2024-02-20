@@ -1,0 +1,21 @@
+{
+    "BuildingTime": "20231215",
+    "size": [
+      {
+        "gapps": "1.6GB",
+        "vanilla": ""
+      }
+    ],
+    "version" : "1.7",
+    "last_updated": "15th December 2023",
+    "maintainer": [
+      {
+        "name": "fjrXTR",
+        "telegram": "https://t.me/gabutuniverse"
+      }
+    ],
+    "device_name": "POCO M4 Pro 4G",
+    "device": "fleur",
+    "xda_thread": "",
+    "updater": true
+}

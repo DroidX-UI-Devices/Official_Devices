@@ -1,5 +1,12 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
 
+# v1.6.0 ArcLight
+
+- Synced latest source
+- Lot of Customisation
+- KernelSU Updated
+- Added support for Wifi 6
+
 # v1.5.2 LimeDust [NEW]
 
 - KernelSU Updated to 0.6.7

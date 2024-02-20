@@ -1,0 +1,21 @@
+{
+    "BuildingTime": "20231210",
+    "size": [
+      {
+        "gapps": "2.0",
+        "vanilla": "1.4"
+      }
+    ],
+    "version" : "1.7",
+    "last_updated": "10th December 2023",
+    "maintainer": [
+      {
+        "name": "PRIYANSHU",
+        "telegram": "https://t.me/thepriyanshujangid"
+      }
+    ],
+    "device_name": "POCO X5 Pro 5G",
+    "device": "redwood",
+    "xda_thread": "",
+    "updater": false
+}
