@@ -1,6 +1,14 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
  
  
+# v2.0 NewHorizon ALPHA [NEW]
+
+• Initial build A14
+• shipped Kernelsu
+
+Bugs :
+• offline Charging Animation not showing
+ 
 # v1.6 ArchLight [NEW]
 
 • Changed kernel to Perf+ Latest KSU v0.7.0

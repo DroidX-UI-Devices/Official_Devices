@@ -190,15 +190,15 @@
             "model": "Zenfone Max M2",
             "maintainer_name": "Assun Zain",
             "co_maintainer_name": "",
-            "BuildingTime": "20231030",
-            "last_updated": "30th October 2023",
-            "version": "1.6",
+            "BuildingTime": "20240219",
+            "last_updated": "19th February 2024",
+            "version": "2.0",
             "active": true,
             "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/X01AD.md",
             "Links": [
                 {
-                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/X01AD/droidx-1.6-20231031-0119-OFFICIAL-X01AD-Gapps.zip/download",
-                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/X01AD/droidx-1.6-20231030-1406-OFFICIAL-X01AD-Vanilla.zip/download"
+                    "Gapps": "",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/X01AD/droidx-2.0-20240219-0945-OFFICIAL-X01AD-Vanilla.zip/download"
                 }
             ],
             "status": "Official",
