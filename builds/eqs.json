@@ -1,0 +1,21 @@
+{
+    "BuildingTime": "20240225",
+    "size": [
+      {
+        "gapps": "1.9GB",
+        "vanilla": ""
+      }
+    ],
+    "version" : "2.0",
+    "last_updated": "25th February 2024",
+    "maintainer": [
+      {
+        "name": "Snow",
+        "telegram": "https://t.me/nekotalks"
+      }
+    ],
+    "device_name": "Motorola Edge 30 Ultra",
+    "device": "eqs",
+    "xda_thread": "",
+    "updater": true
+}
