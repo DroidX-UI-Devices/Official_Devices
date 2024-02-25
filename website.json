@@ -389,6 +389,28 @@
             "position": "maintainer"
         },
         {
+            "codename": "eqs",
+            "vendor": "motorola",
+            "model": "Motorola Edge 30 Ultra",
+            "maintainer_name": "Snow",
+            "co_maintainer_name": "",
+            "BuildingTime": "20240225",
+            "last_updated": "25th february 2024",
+            "version": "2.0",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/14/changelogs/eqs.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/eqs/droidx-2.0-20240224-2131-OFFICIAL-eqs-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "",
+            "gitProfile": "https://github.com/snowey7809",
+            "profile_pic": ""
+        }
+        {
             "codename": "RMX2170",
             "vendor": "Realme",
             "model": "7 Pro",
