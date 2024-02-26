@@ -4,11 +4,20 @@
 - Only Dirty flash if you are coming from previous droidx official encrypted build if coming from unofficial or other builds better do a clean flash
 - FBE (File based encryption) enabled by default *
 - NON - RETROFIT BUILD. Flash or Update as usual, with normal method.
-- * use updated TWRP (https://github.com/zeelog/device_mido_twrp/releases/tag/2.0)
+- * use updated TWRP (https://github.com/zeelog/device_mido_twrp/releases/tag/3.0)
 - Use zeelog's lineageos method to flash the rom or follow the following steps given here: [Guide](https://raw.githubusercontent.com/NRanjan-17/Pixel-Experience-Releases/main/install_guide.md)
 - Clean Flash Recommended
 - Always dirty flash at your own risk.
 - If your device bootloops, revert to an older build that boots, backup your stuff and do a clean flash.
+
+# STABLE v2.0 New Horizon
+## Date: February 26,2024
+
+- DroidX-UI 2.0 based on February 2024 Patch
+- Initial Build for A14
+- Updated Device trees
+- Some cust is blank as work is in progress
+
 
 # STABLE v1.5.3 LimeDust
 ## Date: August 24,2023
