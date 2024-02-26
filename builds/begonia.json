@@ -1,13 +1,13 @@
 {
-    "BuildingTime": "20231204",
+    "BuildingTime": "20240226",
     "size": [
       {
         "gapps": "-",
-        "vanilla": "1.1"
+        "vanilla": "1.0"
       }
     ],
-    "version" : "1.7",
-    "last_updated": "1st October 2023",
+    "version" : "2.0",
+    "last_updated": "26th Febuary 2024",
     "maintainer": [
       {
         "name": "Noobbeast",

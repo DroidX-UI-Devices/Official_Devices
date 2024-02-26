@@ -1,6 +1,15 @@
 <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
 
 ### DroidX-UI for Redmi Note 8 Changelogs
+## 2.0 v2.0 NewHorizon ALPHA 
+- Initial build A14
+- Based on February Security Patch
+Many Thanks 
+- To DarkJoker360 for Device Tree
+- Saikrishna1504 for helping
+
+
+### DroidX-UI for Redmi Note 8 Changelogs
 ## 1.7 EOL
 - Based on November Security Patch
 - Initial Official build
