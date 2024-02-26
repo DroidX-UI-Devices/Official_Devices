@@ -1,6 +1,6 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/install.png" />
  
-## Android 13 Release Notes/Installation Guide
+## Android 14 Release Notes/Installation Guide
 
 
 ### 1.Clean Flash
@@ -12,7 +12,7 @@ Seedvault backup not working yet
 -------------
 • Flash the new TWRP Recovery made by Zeelog : ( Mandatory)due to various changes in fstab file and encryption implementation, you are required to flash the new TWRP of which the link is undermentioned 
 
-[Link](https://github.com/zeelog/device_mido_twrp/releases/download/2.0/twrp_3.7.0_12-0-mido.img)
+[Link](https://github.com/zeelog/device_mido_twrp/releases/download/3.0/twrp_3.7.0_12-0-mido.img)
 
 ### 3.Wipe and format Device ( Both are different)
 -----------------------------------------------
