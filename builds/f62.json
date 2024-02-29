@@ -1,0 +1,21 @@
+{
+    "BuildingTime": "20240229",
+    "size": [
+      {
+        "gapps": "_",
+        "vanilla": "1.0"
+      }
+    ],
+    "version" : "2.0",
+    "last_updated": "29th Febuary 2024",
+    "maintainer": [
+      {
+        "name": "MODEDGES",
+        "telegram": "https://t.me/modedges2023"
+      }
+    ],
+    "device_name": "Samsung Galaxy F62",
+    "device": "f62",
+    "xda_thread": "",
+    "updater": true
+}
