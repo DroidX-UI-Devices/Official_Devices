@@ -121,20 +121,20 @@
             "model": "Redmi 6 Pro",
             "maintainer_name": "Aneesh",
             "co_maintainer_name": "JAYY",
-            "BuildingTime": "20231217",
-            "last_updated": "17th December 2023",
-            "version": "1.7",
+            "BuildingTime": "20240301",
+            "last_updated": "1st March 2024",
+            "version": "2.0",
             "active": true,
-            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/sakura.md",
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/14/changelogs/sakura.md",
             "Links": [
                 {
-                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/sakura/droidx-1.7-20231217-1213-OFFICIAL-sakura-Gapps.zip/download",
-                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/sakura/droidx-1.7-20231217-1131-OFFICIAL-sakura-Vanilla.zip/download"
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/sakura/droidx-2.0-20240229-0803-OFFICIAL-sakura-Gapps.zip/download",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/sakura/droidx-2.0-20240229-2312-OFFICIAL-sakura-Vanilla.zip/download"
                 }
             ],
             "status": "Official",
             "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/sakura.png",
-            "gitProfile": "https://www.github.com/jayb71",
+            "gitProfile": "https://www.github.com/aneeshsvha",
             "profile_pic": "your profile picture in https link",
             "position": "maintainer"
         },

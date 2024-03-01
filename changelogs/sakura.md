@@ -1,5 +1,14 @@
  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
  
+ ### DroidX-UI for Redmi 6 Pro (sakura) Changelogs
+ 
+ # STABLE v2.0 New Horizon
+ ## Date: March 01,2024
+ - DroidX-UI 2.0 based on February 2024 Patch
+ - Initial Build for A14
+ - Updated Device trees
+ - Some cust is blank as work is in progress
+ 
  # v1.7 LTS
  - Based on November Security Patch
  - EOL build of A13
