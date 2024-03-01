@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/install.png" />
+<img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/14/banners/install.png" />
 
 CLEAN FLASH :-
 
